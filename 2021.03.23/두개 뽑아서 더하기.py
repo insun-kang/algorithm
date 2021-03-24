@@ -1,0 +1,54 @@
+# 문제
+
+```
+문제 설명
+정수 배열 numbers가 주어집니다. numbers에서 서로 다른 인덱스에 있는 두 개의 수를 뽑아 더해서 만들 수 있는 모든 수를 배열에 오름차순으로 담아 return 하도록 solution 함수를 완성해주세요.
+
+제한사항
+numbers의 길이는 2 이상 100 이하입니다.
+numbers의 모든 수는 0 이상 100 이하입니다.
+입출력 예
+numbers	result
+[2,1,3,4,1]	[2,3,4,5,6,7]
+[5,0,2,7]	[2,5,7,9,12]
+입출력 예 설명
+입출력 예 #1
+
+2 = 1 + 1 입니다. (1이 numbers에 두 개 있습니다.)
+3 = 2 + 1 입니다.
+4 = 1 + 3 입니다.
+5 = 1 + 4 = 2 + 3 입니다.
+6 = 2 + 4 입니다.
+7 = 3 + 4 입니다.
+따라서 [2,3,4,5,6,7] 을 return 해야 합니다.
+입출력 예 #2
+
+2 = 0 + 2 입니다.
+5 = 5 + 0 입니다.
+7 = 0 + 7 = 5 + 2 입니다.
+9 = 2 + 7 입니다.
+12 = 5 + 7 입니다.
+따라서 [2,5,7,9,12] 를 return 해야 합니다.
+
+```
+
+# 풀이 방법
+    combination을 이용하여 간단하게 해결 할 수 있었다. 먼저 lsts에 주어진 numbers를 2씩 조합한 값들을 넎어주었고 그 값을 합친 값을 answer에 넣어주었다.
+    이 때 answer에 존재하지 않는 값만 넣어줌으로써 중복을 방지할 수 있었다. 이후에 sort를 이용해서 순서대로 나열했고 출력시켰다.
+
+    
+
+# 코드
+```
+from itertools import combinations
+
+def solution(numbers):
+    lsts=list(combinations(numbers, 2))
+    answer = []
+    for lst in lsts:
+        if sum(lst) not in answer:
+            answer.append(sum(lst))
+    answer.sort()
+    return answer
+
+```
