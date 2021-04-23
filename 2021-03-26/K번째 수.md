@@ -42,3 +42,5 @@ def solution(array, commands):
     return answer
 
 ```
+# 출처
+    https://programmers.co.kr/
