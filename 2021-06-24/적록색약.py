@@ -7,7 +7,6 @@ def bfs(area, a, b, color):
     q=deque()
     q.append((a, b))
 
-
     while q:
         y, x = q.popleft()
 
@@ -33,6 +32,7 @@ for i in range(n):
         if j =='G':
             j = 'R'
         tmp2.append(j)
+        
     non_color_blindness.append(tmp)
     color_blindness.append(tmp2)
 
