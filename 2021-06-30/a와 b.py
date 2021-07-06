@@ -2,7 +2,6 @@ s = input()
 t = input()
 
 while True:
-    print(t, s)
     if len(s) >= len(t):
         break
 
