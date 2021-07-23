@@ -99,3 +99,4 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)                                   |
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                  | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py)                                                                         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)              | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)                                                       |
+ 
