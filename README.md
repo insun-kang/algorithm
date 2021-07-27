@@ -104,6 +104,11 @@
 
 # programmers-SQL
 
-| 문제                                                                                     | 풀이  |
-|--|---|
-|[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|
+| 문제                                                                                     | 풀이  | 난이도 |
+|--|---|--|
+|[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)| Lv.1
+|[이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039?language=mysql)|[풒이보기]()| Lv.1
+|[모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034)|[풀이보기]()| Lv.1
+|[역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035)|[풀이보기]()| Lv.1
+|[이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407)|[풀이보기]()| Lv.1
+|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)|[풀이보기]()| Lv.1
