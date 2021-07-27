@@ -13,4 +13,3 @@ for _ in range(t):
             answer = l[j+2]-l[j]
     print(answer)
 
-
