@@ -100,3 +100,9 @@
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                  | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py)                                                                         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)              | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)                                                       |
  
+
+
+# programmers-SQL
+
+| 문제                                                                                     | 풀이  |
+|[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|
