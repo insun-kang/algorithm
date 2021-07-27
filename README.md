@@ -105,4 +105,5 @@
 # programmers-SQL
 
 | 문제                                                                                     | 풀이  |
+|--|---|
 |[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [풀이보기](https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%B5%9C%EB%8C%93%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|
