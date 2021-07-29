@@ -37,7 +37,7 @@ Jack
     
 
 # 코드
-```python
+```mysql
 SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME LIMIT 1
 
 ```
