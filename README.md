@@ -1,8 +1,8 @@
 # 종류
 
-[BOJ](#BOJ) \n
-[programmers](#programmers) \n
-[programmers-SQL](#programmers-SQL) \n
+[BOJ](#BOJ)  
+[programmers](#programmers)  
+[programmers-SQL](#programmers-SQL)
 
 # BOJ
 
