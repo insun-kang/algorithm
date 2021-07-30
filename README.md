@@ -1,8 +1,8 @@
 # 목차
 
-[BOJ](#BOJ)
-[programmers](#programmers)
-[programmers-SQL](#programmers-SQL)
+[BOJ](#BOJ)|
+[programmers](#programmers)|
+[programmers-SQL](#programmers-SQL)|
 
 # BOJ
 
