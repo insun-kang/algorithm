@@ -51,6 +51,9 @@
 | [15649 N과 M (1)](https://www.acmicpc.net/problem/15649)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(1).py>)                                                                                       |
 | [15650 N과 M (2)](https://www.acmicpc.net/problem/15650)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(2).py>)                                                                                       |
 | [15651 N과 M (3)](https://www.acmicpc.net/problem/15651)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(3).py>)                                                                                       |
+| [15651 N과 M (4)](https://www.acmicpc.net/problem/15652)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(4).py>)                                                                                       |
+| [15651 N과 M (4)](https://www.acmicpc.net/problem/15652)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(4).py>)                                                                                       |
+| [15651 N과 M (4)](https://www.acmicpc.net/problem/15652)           | [백트래킹]                        | [PYTHON](<https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN%EA%B3%BC%20M(4).py>)                                                                                       |
 
 # programmers
 
