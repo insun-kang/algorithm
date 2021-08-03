@@ -81,7 +81,7 @@
 | [1546 평균](https://www.acmicpc.net/problem/1546)                  | [수학]                            | [JAVA](https://github.com/insun-kang/algorithm/blob/master/boj_java/src/boj_java/N1546.java)                                                                                                                             |
 | [8958 OX퀴즈](https://www.acmicpc.net/problem/8958)                | [구현] [문자열]                   | [JAVA](https://github.com/insun-kang/algorithm/blob/master/boj_java/src/boj_java/N8958.java)                                                                                                                             |
 | [4344 평균은 넘겠지](https://www.acmicpc.net/problem/4344)         | [수학]                            | [JAVA](https://github.com/insun-kang/algorithm/blob/master/boj_java/src/boj_java/N4344.java)                                                                                                                             |
-| [9663 N-Queen](https://www.acmicpc.net/problem/9663)               | [브루트포스] [백트래킹]           | [PYTHON]()()                                                                                                                                                                                                             |
+| [9663 N-Queen](https://www.acmicpc.net/problem/9663)               | [브루트포스] [백트래킹]           | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4%5D%5B%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9%5DN-Queen.py)                                                |
 
 # programmers
 
