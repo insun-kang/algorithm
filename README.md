@@ -184,3 +184,13 @@
 | [오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)                 | Lv.3   | [MYSQL](<https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(1)%2Cmd>)                          |
 | [오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411)                 | Lv.3   | [MYSQL](<https://github.com/insun-kang/algorithm/blob/master/SQL/%EC%98%A4%EB%9E%9C%20%EA%B8%B0%EA%B0%84%20%EB%B3%B4%ED%98%B8%ED%95%9C%20%EB%8F%99%EB%AC%BC(2).md>)                            |
 | [헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)                  | Lv.3   | [MYSQL](https://github.com/insun-kang/algorithm/blob/master/SQL/%ED%97%A4%EB%B9%84%20%EC%9C%A0%EC%A0%80%EA%B0%80%20%EC%86%8C%EC%9C%A0%ED%95%9C%20%EC%9E%A5%EC%86%8C.md)                        |
+
+# SWEA
+
+| 문제             | 난이도 | 풀이 |
+| ---------------- | ------ | ---- |
+| [1206 View]      | D3     |      |
+| [1208 Flatten]   | D3     |      |
+| [4828 min max]   | D2     |      |
+| [4834 숫자 카드] | D2     |      |
+| [4835 구간합]    | D2     |      |
