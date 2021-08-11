@@ -91,6 +91,7 @@
 | [1463 1로 만들기](https://www.acmicpc.net/problem/1463)            | [DP]                              | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BDP%5D1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)                                                                                                    |
 | [10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844)        | [DP]                              | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BDP%5D%EC%89%AC%EC%9A%B4%20%EA%B3%84%EB%8B%A8%20%EC%88%98.py)                                                                                         |
 | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)           | [그래프] [BFS] [DFS]              | [PYTHON]()                                                                                                                                                                                                               |
+| [1074 Z](https://www.acmicpc.net/problem/1074)                     | [분할정복] [재귀]                 | [PYTHON]()                                                                                                                                                                                                               |
 
 # programmers
 
