@@ -196,4 +196,4 @@
 | [4828 min max]   | D2     | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/SWEA/4828.min%20max.py)                               |
 | [4834 숫자 카드] | D2     | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/SWEA/4834.%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py) |
 | [4835 구간합]    | D2     | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/SWEA/4835.%EA%B5%AC%EA%B0%84%ED%95%A9.py)             |
-| [4831 전기버스]  | D3     | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/SWEA/4834.%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C.py) |
+| [4831 전기버스]  | D3     | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/SWEA/4831.%EC%A0%84%EA%B8%B0%EB%B2%84%EC%8A%A4.py)    |
