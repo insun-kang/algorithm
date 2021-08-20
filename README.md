@@ -93,6 +93,7 @@
 | [1012 유기농 배추](https://www.acmicpc.net/problem/1012)           | [그래프] [BFS] [DFS]              | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5BBFS%5D%5BDFS%5D%EC%9C%A0%EA%B8%B0%EB%86%8D%20%EB%B0%B0%EC%B6%94.py)                                                 |
 | [1074 Z](https://www.acmicpc.net/problem/1074)                     | [분할정복] [재귀]                 | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B6%84%ED%95%A0%20%EC%A0%95%EB%B3%B5%5D%5B%EC%9E%AC%EA%B7%80%5DZ.py)                                                                              |
 | [1107 리모컨](https://www.acmicpc.net/problem/1107)                | [브루트포스]                      | [PYTHON]()                                                                                                                                                                                                               |
+| [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)             | [BFS] [DFS]                       | [PYTHON]()                                                                                                                                                                                                               |
 
 # programmers
 

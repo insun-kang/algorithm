@@ -1,3 +1,7 @@
+import sys
+input = sys.stdin.readline
+
+
 def check(num):
     num = list(str(num))
     for i in num:
