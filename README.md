@@ -95,6 +95,7 @@
 | [1107 리모컨](https://www.acmicpc.net/problem/1107)                   | [브루트포스]                      | [PYTHON]()                                                                                                                                                                                                               |
 | [1260 DFS와 BFS](https://www.acmicpc.net/problem/1260)                | [BFS] [DFS]                       | [PYTHON]()                                                                                                                                                                                                               |
 | [1389 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) | [BFS]                             | [PYTHON]()                                                                                                                                                                                                               |
+| [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)            | [문자열] [그리디]                 | [PYTHON]()                                                                                                                                                                                                               |
 
 # programmers
 
