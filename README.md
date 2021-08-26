@@ -98,6 +98,8 @@
 | [1541 잃어버린 괄호](https://www.acmicpc.net/problem/1541)               | [문자열] [그리디]                 | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%AC%B8%EC%9E%90%EC%97%B4%5D%5B%EA%B7%B8%EB%A6%AC%EB%94%94%5D%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8.py)                         |
 | [1620 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [자료구조]                        | [PYTHON]()                                                                                                                                                                                                               |
 | [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [수학]                            | [PYTHON]()                                                                                                                                                                                                               |
+| [1676 숨바꼭질](https://www.acmicpc.net/problem/1676)           | [BFS]                            | [PYTHON]()                                                                                                                                                                                                               |
+| [1764 듣보잡](https://www.acmicpc.net/problem/1764)           | [문자열] [정렬]                            | [PYTHON]()                                                                                                                                                                                                               |
 
 # programmers
 
