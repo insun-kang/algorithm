@@ -100,6 +100,7 @@
 | [1676 팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)           | [수학]                            | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EC%88%98%ED%95%99%5D%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC%200%EC%9D%98%20%EA%B0%9C%EC%88%98.py)                                                                     |
 | [1697 숨바꼭질](https://www.acmicpc.net/problem/1697)                    | [BFS]                             | [PYTHON]()https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BBFS%5D%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.py                                                                                                                      |
 | [1764 듣보잡](https://www.acmicpc.net/problem/1764)                      | [문자열] [정렬]                   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%AC%B8%EC%9E%90%EC%97%B4%5D%5B%EC%A0%95%EB%A0%AC%5D%EB%93%A3%EB%B3%B4%EC%9E%A1.py)                                                                               |
+| [1780 종이의 개수](https://www.acmicpc.net/problem/1780)                 | [재귀] [분할정복]                 | [PYTHON]()                                                                                                                                                                                                                              |
 
 # programmers
 
