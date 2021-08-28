@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="532d116a-55d7-4bcb-8f50-3814beafd3d8" name="Default Changelist" comment="" />
+    <list default="true" id="532d116a-55d7-4bcb-8f50-3814beafd3d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ/회의실 배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ/[그리디][정렬]회의실 배정.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,28 +26,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="2" />
+          <entry key="md" value="3" />
           <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="2" />
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="dummy" value="10" />
           <entry key="gitignore" value="8" />
-          <entry key="md" value="1" />
+          <entry key="md" value="21" />
           <entry key="py" value="1690" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Markdown" value="21" />
+          <entry key="PLAIN_TEXT" value="18" />
           <entry key="Python" value="1690" />
         </counts>
       </usages-collector>
@@ -72,11 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ/회의실 배정.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOJ/[그리디][정렬]회의실 배정.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="156">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="352">
+                <caret line="103" column="217" selection-start-line="103" selection-start-column="217" selection-end-line="103" selection-end-column="217" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -113,14 +130,14 @@
         <option value="$PROJECT_DIR$/BOJ/숨바꼭질.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/BOJ/[재귀][분할정복]종이의 개수.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/BOJ/[우선순위 큐]최소 힙.py" />
         <option value="$PROJECT_DIR$/BOJ/회의실 배정.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="978" />
     <option name="height" value="1048" />
@@ -178,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/회의실 배정.py" />
+      <option name="SCRIPT_NAME" value="D:\elice\알고리즘\algorithm\BOJ\[그리디][정렬]회의실 배정.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,21 +305,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="-7" width="782" height="838" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5060403" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2623926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23295455" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23295455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289855" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.328125" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24289773" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.24289773" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3252841" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -346,16 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="395">
-            <caret line="104" column="13" lean-forward="true" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BOJ/[재귀][분할정복]종이의 개수.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
@@ -373,10 +380,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ/회의실 배정.py">
+    <entry file="file://$PROJECT_DIR$/BOJ/[그리디][정렬]회의실 배정.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="156">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="103" column="217" selection-start-line="103" selection-start-column="217" selection-end-line="103" selection-end-column="217" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
