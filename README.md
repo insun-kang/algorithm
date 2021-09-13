@@ -107,6 +107,7 @@
 | [2606 바이러스](https://www.acmicpc.net/problem/2606)                    | [DFS] [BFS]]                      | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BBFS%5D%5BDFS%5D%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)                                                                                                             |
 | [1992 쿼드트리](https://www.acmicpc.net/problem/1992)                    | [분할정복] [재귀]]                | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%5D%5B%EC%9E%AC%EA%B7%80%5D%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.py)                                                             |
 | [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)              | [BFS] [DFS]]                      | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BBFS%5D%5BDFS%5D%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.py)                                                                                  |
+| [5430 AC](https://www.acmicpc.net/problem/5430)                          | [문자열] [구현]]                  | [PYTHON]()                                                                                                                                                                                                                              |
 
 # programmers
 
