@@ -37,6 +37,7 @@ for y in range(N):
         if graph[y][x] != 0:
             answer.append(bfs(y, x))
             cnt += 1
+answer.sort()
 print(cnt)
 for i in answer:
     print(i)
