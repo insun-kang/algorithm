@@ -106,6 +106,7 @@
 | [1244 스위치 켜고 끄기](https://www.acmicpc.net/problem/1244)            | [구현] [시뮬레이션]               | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B5%AC%ED%98%84%5D%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BC%9C%EA%B3%A0%20%EB%81%84%EA%B8%B0.py)                   |
 | [2606 바이러스](https://www.acmicpc.net/problem/2606)                    | [DFS] [BFS]]                      | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BBFS%5D%5BDFS%5D%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)                                                                                                             |
 | [1992 쿼드트리](https://www.acmicpc.net/problem/1992)                    | [분할정복] [재귀]]                | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%5D%5B%EC%9E%AC%EA%B7%80%5D%EC%BF%BC%EB%93%9C%ED%8A%B8%EB%A6%AC.py)                                                             |
+| [2667 단지번호붙이기](https://www.acmicpc.net/problem/2667)              | [BFS] [DFS]]                      | [PYTHON]()                                                                                                                                                                                                                              |
 
 # programmers
 
