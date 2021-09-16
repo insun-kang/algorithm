@@ -110,7 +110,7 @@
 | [5430 AC](https://www.acmicpc.net/problem/5430)                          | [문자열] [구현]]                  | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B5%AC%ED%98%84%5D%5B%EB%AC%B8%EC%9E%90%EC%97%B4%5DAC.py)                                                                                                        |
 | [7576 토마토](https://www.acmicpc.net/problem/7576)                      | [BFS]                             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BBFS%5D%ED%86%A0%EB%A7%88%ED%86%A0.py)                                                                                                                               |
 | [1043 거짓말](https://www.acmicpc.net/problem/1043)                      | [그래프] [자료구조] [분리집합]    | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%5B%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9%5D%EA%B1%B0%EC%A7%93%EB%A7%90.py)                   |
-| [1167 트리의 지름](https://www.acmicpc.net/problem/1167)                 | [그래프] [BFS]                    | [PYTHON]()                                                                                                                                                                                                                              |
+| [1167 트리의 지름](https://www.acmicpc.net/problem/1167)                 | [그래프] [BFS]                    | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5BBFS%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)                                                                         |
 
 # programmers
 
