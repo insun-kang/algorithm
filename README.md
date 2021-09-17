@@ -112,6 +112,7 @@
 | [1043 거짓말](https://www.acmicpc.net/problem/1043)                      | [그래프] [자료구조] [분리집합]    | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%5B%EB%B6%84%EB%A6%AC%EC%A7%91%ED%95%A9%5D%EA%B1%B0%EC%A7%93%EB%A7%90.py)                   |
 | [1167 트리의 지름](https://www.acmicpc.net/problem/1167)                 | [그래프] [BFS]                    | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5BBFS%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)                                                                         |
 | [1238 파티](https://www.acmicpc.net/problem/1238)                        | [다익스트라] [그래프]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%ED%8C%8C%ED%8B%B0.py)                                                             |
+| [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504)                        | [다익스트라] [그래프]             | [PYTHON]()                                                             |
 
 # programmers
 
