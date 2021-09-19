@@ -113,6 +113,7 @@
 | [1167 트리의 지름](https://www.acmicpc.net/problem/1167)                 | [그래프] [BFS]                    | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5BBFS%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)                                                                         |
 | [1238 파티](https://www.acmicpc.net/problem/1238)                        | [다익스트라] [그래프]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%ED%8C%8C%ED%8B%B0.py)                                                             |
 | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504)                        | [다익스트라] [그래프]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)                                                             |
+| [1629 곱셈](https://www.acmicpc.net/problem/1629)                        | [분할정복] [수학]             | [PYTHON]()                                                             |
 
 # programmers
 
