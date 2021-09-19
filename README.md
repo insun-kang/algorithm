@@ -114,6 +114,7 @@
 | [1238 파티](https://www.acmicpc.net/problem/1238)                        | [다익스트라] [그래프]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%ED%8C%8C%ED%8B%B0.py)                                                             |
 | [1504 특정한 최단 경로](https://www.acmicpc.net/problem/1504)                        | [다익스트라] [그래프]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%ED%8A%B9%EC%A0%95%ED%95%9C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.py)                                                             |
 | [1629 곱셈](https://www.acmicpc.net/problem/1629)                        | [분할정복] [수학]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%5D%5B%EC%88%98%ED%95%99%5D%EA%B3%B1%EC%85%88.py)                                                             |
+| [1865 웜홀](https://www.acmicpc.net/problem/1865)                        | [그래프]] [벨만포드]             | [PYTHON]()                                                             |
 
 # programmers
 
