@@ -116,7 +116,7 @@
 | [1629 곱셈](https://www.acmicpc.net/problem/1629)                        | [분할정복] [수학]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%B6%84%ED%95%A0%EC%A0%95%EB%B3%B5%5D%5B%EC%88%98%ED%95%99%5D%EA%B3%B1%EC%85%88.py)                                                             |
 | [1865 웜홀](https://www.acmicpc.net/problem/1865)                        | [그래프] [벨만포드]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%EB%B2%A8%EB%A7%8C%ED%8F%AC%ED%8A%B8%5D%EC%9B%9C%ED%99%80.py)                                                             |
 | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)                        | [스택] [자료구조]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EC%8A%A4%ED%83%9D%5D%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)                                                             |
-| [1967 트리의 지름](https://www.acmicpc.net/problem/1967)                        | [그래프] [트리] [다익스트라]             | [PYTHON]()                                                             |
+| [1967 트리의 지름](https://www.acmicpc.net/problem/1967)                        | [그래프] [트리] [다익스트라]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%ED%8A%B8%EB%A6%AC%5D%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)                                                             |
 
 # programmers
 
