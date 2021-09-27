@@ -1,9 +1,9 @@
 # 종류
-
+ 
 [BOJ](#BOJ)  
 [programmers](#programmers)  
 [programmers-SQL](#programmers-SQL)
-
+  
 # BOJ
 
 | 문제                                                                     | 유형                              | 풀이                                                                                                                                                                                                                                    |
