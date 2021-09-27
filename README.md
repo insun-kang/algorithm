@@ -181,7 +181,7 @@
 | [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)       | Lv.1   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20p%EC%99%80%20y%EC%9D%98%20%EA%B0%9C%EC%88%98.py)                                   |
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                  | Lv.2   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py)                                                                         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)              | Lv.2   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)                                                       |
-| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)              | Lv.3   | [PYTHON]()                                                       |
+| [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)              | Lv.3   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py)                                                       |
 
 # programmers-SQL
 
