@@ -118,7 +118,7 @@
 | [1918 후위 표기식](https://www.acmicpc.net/problem/1918)                        | [스택] [자료구조]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EC%8A%A4%ED%83%9D%5D%5B%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%5D%ED%9B%84%EC%9C%84%20%ED%91%9C%EA%B8%B0%EC%8B%9D.py)                                                             |
 | [1967 트리의 지름](https://www.acmicpc.net/problem/1967)                        | [그래프] [트리] [다익스트라]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%5B%ED%8A%B8%EB%A6%AC%5D%5B%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC%5D%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EC%A7%80%EB%A6%84.py)                                                             |
 | [2096 내려가기](acmicpc.net/problem/2096)                        | [DP]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5BDP%5D%5B%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9%20%EC%9C%88%EB%8F%84%EC%9A%B0%5D%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0.py)                                                             |
-| [9935 문자열 폭발](acmicpc.net/problem/9935)                        | [문자열] [스택]             | [PYTHON]()                                                             |
+| [9935 문자열 폭발](acmicpc.net/problem/9935)                        | [문자열] [스택]             | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/BOJ/%5B%EB%AC%B8%EC%9E%90%EC%97%B4%5D%5B%EC%8A%A4%ED%83%9D%5D%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%8F%AD%EB%B0%9C.py)                                                             |
 
 # programmers
 
