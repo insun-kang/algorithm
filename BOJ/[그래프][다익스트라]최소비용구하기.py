@@ -9,7 +9,6 @@ def dijkstra(start, end):
     distance[start]=0
 
     while q:
-        print(q)
         dist, now = heapq.heappop(q)
 
         if distance[now] < dist:
@@ -21,7 +20,6 @@ def dijkstra(start, end):
             if distance[i[0]] > cost:
                 distance[i[0]] = cost
                 heapq.heappush(q, (cost, i[0]))
-        print(graph, distance)
     return distance[end]
 
 
@@ -39,5 +37,5 @@ for _ in range(m):
 start, end = map(int, input().split())
 
 
-print(dijkstra(start, end))
+print(f'#{tc} {sum(dijkstra(start, end))}')
 

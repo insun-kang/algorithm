@@ -24,8 +24,11 @@ include = {
     9: [8, 9]
 }
 
+
 def count(lst):
-    
+
+    pass
+
 
 N = int(input())
 light = [list(input()) for _ in range(5)]
