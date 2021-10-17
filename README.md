@@ -186,7 +186,7 @@
 | [숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)                  | Lv.2   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.py)                                                                         |
 | [최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)              | Lv.2   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.py)                                                       |
 | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)                 | Lv.3   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.py)                                                                      |
-| [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)         | Lv.2   | [PYTHON]()                                                                                                                                                                                            |
+| [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)         | Lv.2   | [PYTHON](https://github.com/insun-kang/algorithm/blob/master/programmers/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.py)                                  |
 
 # programmers-SQL
 
