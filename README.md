@@ -269,92 +269,92 @@
 [12. 멘토링]() :heavy_check_mark:</br>
 
 ##    섹션 3. Two pointers, Sliding window[효율성 : O(n^2)-->O(n)] :heavy_check_mark:
-[1. 두 배열 합치기(two pointers algorithm)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q01.java) :heavy_check_mark:
-[2. 공통원소구하기(two pointers algorithm)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q02.java) :heavy_check_mark:
-[3. 최대 매출(Sliding window)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q03.java) :heavy_check_mark:
-[4. 연속부분수열(복합적 문제)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q04.java) :heavy_check_mark:
-[5. 연속된 자연수의 합(two pointers)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q05.java) :heavy_check_mark:
-[5. 연속된 자연수의 합(수학)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q06.java) :heavy_check_mark:
-[6. 최대 길이 연속부분수열(복합적 문제)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q07.java) :heavy_check_mark:
+[1. 두 배열 합치기(two pointers algorithm)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q01.java) :heavy_check_mark:</br>
+[2. 공통원소구하기(two pointers algorithm)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q02.java) :heavy_check_mark:</br>
+[3. 최대 매출(Sliding window)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q03.java) :heavy_check_mark:</br>
+[4. 연속부분수열(복합적 문제)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q04.java) :heavy_check_mark:</br>
+[5. 연속된 자연수의 합(two pointers)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q05.java) :heavy_check_mark:</br>
+[5. 연속된 자연수의 합(수학)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q06.java) :heavy_check_mark:</br>
+[6. 최대 길이 연속부분수열(복합적 문제)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec03/Q07.java) :heavy_check_mark:</br>
 
 ## 섹션 4. HashMap, TreeSet (해쉬, 정렬지원 Set) :heavy_check_mark:
 
-[1. 학급 회장(영상 후반 HashMap 추가설명)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q01.java) :heavy_check_mark:
-[2. 아나그램(HashMap)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q02.java) :heavy_check_mark:
-[3. 매출액의 종류(Hash, sliding window)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q03.java) :heavy_check_mark:
-[4. 모든 아나그램 찾기(Hash, sliding window : 시간복잡도 O(n))](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q04.java) :heavy_check_mark:
-[5. K번째 큰 수(영상 후반 TreeSet 추가설명)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q05.java) :heavy_check_mark:
+[1. 학급 회장(영상 후반 HashMap 추가설명)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q01.java) :heavy_check_mark:</br>
+[2. 아나그램(HashMap)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q02.java) :heavy_check_mark:</br>
+[3. 매출액의 종류(Hash, sliding window)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q03.java) :heavy_check_mark:</br>
+[4. 모든 아나그램 찾기(Hash, sliding window : 시간복잡도 O(n))](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q04.java) :heavy_check_mark:</br>
+[5. K번째 큰 수(영상 후반 TreeSet 추가설명)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec04/Q05.java) :heavy_check_mark:</br>
 
 ## 섹션 5. Stack, Queue(자료구조) :heavy_check_mark:
-[1. 올바른 괄호](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q01.java) :heavy_check_mark:
-[2. 괄호문자제거](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q02.java) :heavy_check_mark:
-[3. 크레인 인형뽑기(카카오)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q03.java) :heavy_check_mark:
-[4. 후위식 연산(postfix)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q04.java) :heavy_check_mark:
-[5. 쇠막대기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q05.java) :heavy_check_mark:
-[6. 공주구하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q06.java) :heavy_check_mark:
-[7. 교육과정설계](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q07.java) :heavy_check_mark:
-[8. 응급실](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q08.java) :heavy_check_mark:
+[1. 올바른 괄호](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q01.java) :heavy_check_mark:</br>
+[2. 괄호문자제거](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q02.java) :heavy_check_mark:</br>
+[3. 크레인 인형뽑기(카카오)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q03.java) :heavy_check_mark:</br>
+[4. 후위식 연산(postfix)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q04.java) :heavy_check_mark:</br>
+[5. 쇠막대기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q05.java) :heavy_check_mark:</br>
+[6. 공주구하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q06.java) :heavy_check_mark:</br>
+[7. 교육과정설계](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q07.java) :heavy_check_mark:</br>
+[8. 응급실](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec05/Q08.java) :heavy_check_mark:</br>
 
 ## 섹션 6. Sorting and Searching(정렬, 이분검색과 결정알고리즘) :heavy_check_mark:
-[1. 선택정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q01.java) :heavy_check_mark:
-[2. 버블정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q02.java) :heavy_check_mark:
-[3. 삽입정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q03.java) :heavy_check_mark:
-[4. LRU(캐시, 카카오 변형)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q04.java) :heavy_check_mark:
-[5. 중복확인](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q05.java) :heavy_check_mark:
-[6. 장난꾸러기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q06.java) :heavy_check_mark:
-[7. 좌표 정렬(compareTo)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q07.java) :heavy_check_mark:
-[8. 이분검색](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q08.java) :heavy_check_mark:
-[9. 뮤직비디오(결정알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q09.java) :heavy_check_mark:
-[10. 마구간 정하기(결정알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q10.java) :heavy_check_mark:
+[1. 선택정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q01.java) :heavy_check_mark:</br>
+[2. 버블정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q02.java) :heavy_check_mark:</br>
+[3. 삽입정렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q03.java) :heavy_check_mark:</br>
+[4. LRU(캐시, 카카오 변형)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q04.java) :heavy_check_mark:</br>
+[5. 중복확인](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q05.java) :heavy_check_mark:</br>
+[6. 장난꾸러기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q06.java) :heavy_check_mark:</br>
+[7. 좌표 정렬(compareTo)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q07.java) :heavy_check_mark:</br>
+[8. 이분검색](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q08.java) :heavy_check_mark:</br>
+[9. 뮤직비디오(결정알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q09.java) :heavy_check_mark:</br>
+[10. 마구간 정하기(결정알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec06/Q10.java) :heavy_check_mark:</br>
 
 ## 섹션 7. Recursive, Tree, Graph(DFS, BFS 기초) :heavy_check_mark:
-[1. 재귀함수(스택프레임)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q01.java) :heavy_check_mark:
-[2. 이진수 출력(재귀)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q02.java) :heavy_check_mark:
-[3. 팩토리얼](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q03.java) :heavy_check_mark:
-[4. 피보나치 재귀(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q04.java) :heavy_check_mark:
-[5. 이진트리순회(DFS : Depth-First Search)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q05.java) :heavy_check_mark:
-[6. 부분집합 구하기(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q06.java) :heavy_check_mark:
-[7. 이진트리 레벨탐색(BFS : Breadth-First Search)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q07.java) :heavy_check_mark:
-[8. 송아지 찾기1(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q08.java) :heavy_check_mark:
-[9. Tree 말단노드까지의 까장 짧은 경로(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q09.java) :heavy_check_mark:
-[10. Tree 말단노드까지의 까장 짧은 경로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q10.java) :heavy_check_mark:
-[11. 그래프와 인접행렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q11.java) :heavy_check_mark:
-[12. 경로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q12.java) :heavy_check_mark:
-[13. 경로탐색(인접리스트, ArrayList)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q13.java) :heavy_check_mark:
-[14. 그래프 최단거리(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q14.java) :heavy_check_mark:
+[1. 재귀함수(스택프레임)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q01.java) :heavy_check_mark:</br>
+[2. 이진수 출력(재귀)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q02.java) :heavy_check_mark:</br>
+[3. 팩토리얼](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q03.java) :heavy_check_mark:</br>
+[4. 피보나치 재귀(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q04.java) :heavy_check_mark:</br>
+[5. 이진트리순회(DFS : Depth-First Search)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q05.java) :heavy_check_mark:</br>
+[6. 부분집합 구하기(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q06.java) :heavy_check_mark:</br>
+[7. 이진트리 레벨탐색(BFS : Breadth-First Search)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q07.java) :heavy_check_mark:</br>
+[8. 송아지 찾기1(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q08.java) :heavy_check_mark:</br>
+[9. Tree 말단노드까지의 까장 짧은 경로(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q09.java) :heavy_check_mark:</br>
+[10. Tree 말단노드까지의 까장 짧은 경로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q10.java) :heavy_check_mark:</br>
+[11. 그래프와 인접행렬](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q11.java) :heavy_check_mark:</br>
+[12. 경로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q12.java) :heavy_check_mark:</br>
+[13. 경로탐색(인접리스트, ArrayList)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q13.java) :heavy_check_mark:</br>
+[14. 그래프 최단거리(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q14.java) :heavy_check_mark:</br>
 
 ## 섹션 8. DFS, BFS 활용
-[1. 합이 같은 부분집합](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q01.java) :heavy_check_mark:
-[2. 바둑이 승차](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q02.java) :heavy_check_mark:
-[3. 최대점수 구하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q03.java) :heavy_check_mark:
-[4. 중복순열(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q04.java) :heavy_check_mark:
-[5. 동전교환](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q05.java) :heavy_check_mark:
-[6. 순열 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q06.java)
-[7. 조합수(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q07.java)
-[8. 수열 추측하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q08.java)
-[9. 조합 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q09.java)
-[10. 미로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q10.java)
-[11. 미로의 최단거리 통로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q11.java)
-[12. 토마토(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q12.java)
-[13. 섬나라 아일랜드(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q13.java)
-[14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java)
-[15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java)
+[1. 합이 같은 부분집합](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q01.java) :heavy_check_mark:</br>
+[2. 바둑이 승차](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q02.java) :heavy_check_mark:</br>
+[3. 최대점수 구하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q03.java) :heavy_check_mark:</br>
+[4. 중복순열(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q04.java) :heavy_check_mark:</br>
+[5. 동전교환](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q05.java) :heavy_check_mark:</br>
+[6. 순열 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q06.java)</br>
+[7. 조합수(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q07.java)</br>
+[8. 수열 추측하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q08.java)</br>
+[9. 조합 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q09.java)</br>
+[10. 미로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q10.java)</br>
+[11. 미로의 최단거리 통로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q11.java)</br>
+[12. 토마토(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q12.java)</br>
+[13. 섬나라 아일랜드(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q13.java)</br>
+[14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java)</br>
+[15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java)</br>
 
 ## 섹션 9. Greedy Algorithm
-[1. 씨름선수]()
-[2. 회의실 배정]()
-[3. 결혼식]()
-[4. 최대수입스케쥴( PriorityQueue)]()
-[5. 다익스트라 알고리즘(채점지원안됨)]()
-[6. 친구인가(Uion&Find)]()
-[7. 원더랜드(크루스칼 : Uion&Find)]()
-[8. 원더랜드(프림 : PriorityQueue)]()
+[1. 씨름선수]()</br>
+[2. 회의실 배정]()</br>
+[3. 결혼식]()</br>
+[4. 최대수입스케쥴( PriorityQueue)]()</br>
+[5. 다익스트라 알고리즘(채점지원안됨)]()</br>
+[6. 친구인가(Uion&Find)]()</br>
+[7. 원더랜드(크루스칼 : Uion&Find)]()</br>
+[8. 원더랜드(프림 : PriorityQueue)]()</br>
 
 ## 섹션 10. dynamic programming(동적계획법)
 
-[1. 계단오르기]()
-[2. 돌다리 건너기]()
-[3. 최대부분증가수열(LIS)]()
-[4. 가장 높은 탑 쌓기(LIS 응용)]()
-[5. 동전교환(냅색 알고리즘)]()
-[6. 최대점수 구하기(냅색알고리즘)]()
+[1. 계단오르기]()</br>
+[2. 돌다리 건너기]()</br>
+[3. 최대부분증가수열(LIS)]()</br>
+[4. 가장 높은 탑 쌓기(LIS 응용)]()</br>
+[5. 동전교환(냅색 알고리즘)]()</br>
+[6. 최대점수 구하기(냅색알고리즘)]()</br>
