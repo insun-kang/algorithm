@@ -241,18 +241,18 @@
 
 
 ## 섹션 1. String(문자열) :heavy_check_mark:
-(1. 문자 찾기)[https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q01.java] :heavy_check_mark:
-(2. 대소문자 변환)[https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q02.java] :heavy_check_mark:
-(3. 문장 속 단어(indexOf(), substring()))[https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q03.java] :heavy_check_mark:
-(4. 단어 뒤집기(StringBuilder이용법 또는 직접뒤집기))[https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q04.java] :heavy_check_mark:
-(5. 특정 문자 뒤집기(toCharArray()))[] :heavy_check_mark:
-(6. 중복문자제거)[] :heavy_check_mark:
-(7. 회문문자열)[] :heavy_check_mark:
-(8. 팰린드롬(replaceAll 정규식이용))[] :heavy_check_mark:
-(9. 숫자만 추출)[] :heavy_check_mark:
-(10. 문자거리)[] :heavy_check_mark:
-(11. 문자열 압축)[] :heavy_check_mark:
-(12. 암호(replace(), parseInt(string, 2)))[] :heavy_check_mark:
+[1. 문자 찾기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q01.java) :heavy_check_mark:
+[2. 대소문자 변환](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q02.java) :heavy_check_mark:
+[3. 문장 속 단어(indexOf(), substring())](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q03.java) :heavy_check_mark:
+[4. 단어 뒤집기(StringBuilder이용법 또는 직접뒤집기)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec01/Q04.java) :heavy_check_mark:
+[5. 특정 문자 뒤집기(toCharArray())]() :heavy_check_mark:
+[6. 중복문자제거]() :heavy_check_mark:
+[7. 회문문자열]() :heavy_check_mark:
+[8. 팰린드롬(replaceAll 정규식이용)]() :heavy_check_mark:
+[9. 숫자만 추출]() :heavy_check_mark:
+[10. 문자거리]() :heavy_check_mark:
+[11. 문자열 압축]() :heavy_check_mark:
+[12. 암호(replace(), parseInt(string, 2))]() :heavy_check_mark:
 
 ## 섹션 2. Array(1, 2차원 배열)
 1. 큰 수 출력하기 :heavy_check_mark:
