@@ -3,7 +3,7 @@
 [BOJ](#BOJ)  
 [programmers](#programmers)  
 [programmers-SQL](#programmers-SQL)  
-[자바 알고리즘 인프런 강의](#inflearn)
+[자바 알고리즘 인프런 강의](#자바-알고리즘-인프런-강의)
 
 # BOJ
  
