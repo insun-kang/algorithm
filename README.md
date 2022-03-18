@@ -329,15 +329,15 @@
 [3. 최대점수 구하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q03.java) :heavy_check_mark:</br>
 [4. 중복순열(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q04.java) :heavy_check_mark:</br>
 [5. 동전교환](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q05.java) :heavy_check_mark:</br>
-[6. 순열 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q06.java)</br>
-[7. 조합수(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q07.java)</br>
-[8. 수열 추측하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q08.java)</br>
-[9. 조합 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q09.java)</br>
-[10. 미로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q10.java)</br>
-[11. 미로의 최단거리 통로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q11.java)</br>
-[12. 토마토(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q12.java)</br>
-[13. 섬나라 아일랜드(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q13.java)</br>
-[14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java)</br>
+[6. 순열 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q06.java) :heavy_check_mark:</br>
+[7. 조합수(메모이제이션)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q07.java) :heavy_check_mark:</br>
+[8. 수열 추측하기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q08.java) :heavy_check_mark:</br>
+[9. 조합 구하기(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q09.java) :heavy_check_mark:</br>
+[10. 미로탐색(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q10.java) :heavy_check_mark:</br>
+[11. 미로의 최단거리 통로(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q11.java) :heavy_check_mark:</br>
+[12. 토마토(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q12.java) :heavy_check_mark:</br>
+[13. 섬나라 아일랜드(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q13.java) :heavy_check_mark:</br>
+[14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java) :heavy_check_mark:</br>
 [15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java)</br>
 
 ## 섹션 9. Greedy Algorithm
