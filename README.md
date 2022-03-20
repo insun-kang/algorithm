@@ -342,12 +342,12 @@
 [12. 토마토(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q12.java) :heavy_check_mark:</br>
 [13. 섬나라 아일랜드(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q13.java) :heavy_check_mark:</br>
 [14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java) :heavy_check_mark:</br>
-[15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java)</br>
+[15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java) :heavy_check_mark:</br>
 
 ## 섹션 9. Greedy Algorithm
 
-[1. 씨름선수]()</br>
-[2. 회의실 배정]()</br>
+[1. 씨름선수]() :heavy_check_mark:</br>
+[2. 회의실 배정]() :heavy_check_mark:</br>
 [3. 결혼식]()</br>
 [4. 최대수입스케쥴( PriorityQueue)]()</br>
 [5. 다익스트라 알고리즘(채점지원안됨)]()</br>
