@@ -348,10 +348,10 @@
 
 [1. 씨름선수](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q01.java) :heavy_check_mark:</br>
 [2. 회의실 배정](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q02.java) :heavy_check_mark:</br>
-[3. 결혼식](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q03.java)</br>
+[3. 결혼식](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q03.java) :heavy_check_mark:</br>
 [4. 최대수입스케쥴( PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q04.java)</br>
-[5. 다익스트라 알고리즘(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q05.java)</br>
-[6. 친구인가(Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q06.java)</br>
+[5. 다익스트라 알고리즘(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q05.java) :heavy_check_mark:</br>
+[6. 친구인가(Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q06.java) :heavy_check_mark:</br>
 [7. 원더랜드(크루스칼 : Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q07.java)</br>
 [8. 원더랜드(프림 : PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q08.java)</br>
 
