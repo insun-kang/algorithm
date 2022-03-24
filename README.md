@@ -326,7 +326,7 @@
 [13. 경로탐색(인접리스트, ArrayList)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q13.java) :heavy_check_mark:</br>
 [14. 그래프 최단거리(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec07/Q14.java) :heavy_check_mark:</br>
 
-## 섹션 8. DFS, BFS 활용
+## 섹션 8. DFS, BFS 활용 :heavy_check_mark:
 
 [1. 합이 같은 부분집합](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q01.java) :heavy_check_mark:</br>
 [2. 바둑이 승차](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q02.java) :heavy_check_mark:</br>
@@ -344,22 +344,22 @@
 [14. 섬나라 아일랜드(BFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q14.java) :heavy_check_mark:</br>
 [15. 피자배달거리(DFS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec08/Q15.java) :heavy_check_mark:</br>
 
-## 섹션 9. Greedy Algorithm
+## 섹션 9. Greedy Algorithm :heavy_check_mark:
 
 [1. 씨름선수](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q01.java) :heavy_check_mark:</br>
 [2. 회의실 배정](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q02.java) :heavy_check_mark:</br>
 [3. 결혼식](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q03.java) :heavy_check_mark:</br>
-[4. 최대수입스케쥴( PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q04.java)</br>
+[4. 최대수입스케쥴( PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q04.java) :heavy_check_mark:</br>
 [5. 다익스트라 알고리즘(채점지원안됨)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q05.java) :heavy_check_mark:</br>
 [6. 친구인가(Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q06.java) :heavy_check_mark:</br>
-[7. 원더랜드(크루스칼 : Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q07.java)</br>
-[8. 원더랜드(프림 : PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q08.java)</br>
+[7. 원더랜드(크루스칼 : Uion&Find)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q07.java) :heavy_check_mark:</br>
+[8. 원더랜드(프림 : PriorityQueue)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec09/Q08.java) :heavy_check_mark:</br>
 
-## 섹션 10. dynamic programming(동적계획법)
+## 섹션 10. dynamic programming(동적계획법) :heavy_check_mark:
 
-[1. 계단오르기]()</br>
-[2. 돌다리 건너기]()</br>
-[3. 최대부분증가수열(LIS)]()</br>
-[4. 가장 높은 탑 쌓기(LIS 응용)]()</br>
-[5. 동전교환(냅색 알고리즘)]()</br>
-[6. 최대점수 구하기(냅색알고리즘)]()</br>
+[1. 계단오르기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q01.java) :heavy_check_mark:</br>
+[2. 돌다리 건너기](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q02.java) :heavy_check_mark:</br>
+[3. 최대부분증가수열(LIS)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q03.java) :heavy_check_mark:</br>
+[4. 가장 높은 탑 쌓기(LIS 응용)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q04.java) :heavy_check_mark:</br>
+[5. 동전교환(냅색 알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q05.java)</br>
+[6. 최대점수 구하기(냅색알고리즘)](https://github.com/insun-kang/algorithm/blob/master/%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B8%ED%94%84%EB%9F%B0%20%EA%B0%95%EC%9D%98/sec10/Q06.java)</br>
